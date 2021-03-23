@@ -6,7 +6,7 @@ using namespace std;
 int
 main ()
 {
-  int x = 0, sum = 0, total = 0;
+  double x = 0, sum = 0, total = 0;
   double grit = 0.0;
 
   total++;
