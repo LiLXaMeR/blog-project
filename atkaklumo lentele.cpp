@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int
-main ()
+int main ()
 {
   double x = 0, sum = 0, total = 0;
   double grit = 0.0;
